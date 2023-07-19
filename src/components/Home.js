@@ -102,7 +102,7 @@ export default function Home() {
                                     </a>
                                 </div>
 
-                                <p data-aos='slide-up' className="lg:pb-8 pb-2 font-thin">
+                                <p className="lg:pb-8 pb-2 font-thin">
                                     © {new Date().getFullYear()}. All rights reserved by Pepe Marvel Universe.
                                 </p>
                             </div>
